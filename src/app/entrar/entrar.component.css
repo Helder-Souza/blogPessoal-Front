@@ -1,0 +1,17 @@
+#img-bg{
+    background-image: url('https://i.imgur.com/MXG0GK1.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    background-color: #ff4700;
+}
+
+.btn:hover{
+    background-color: #ce3c03;
+}
