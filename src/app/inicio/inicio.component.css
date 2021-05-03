@@ -1,0 +1,19 @@
+.linha{
+    background-color: #000;
+}
+
+.fs-54{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+.btn-modal{
+    background-color: #ff4700;
+}
+
+.btn-modal:hover{
+    background-color: #ce3c03;
+}
