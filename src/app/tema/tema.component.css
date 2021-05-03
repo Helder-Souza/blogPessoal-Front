@@ -1,10 +1,10 @@
 .linha{
     background-color: #000;
 }
-.btn-modal{
+.btn-orange {
     background-color: #ff4700;
 }
 
-.btn-modal:hover{
+.btn-orange:hover{
     background-color: #ce3c03;
 }
