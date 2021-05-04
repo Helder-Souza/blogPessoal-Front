@@ -8,3 +8,11 @@
 .btn-modal:hover{
     background-color: #ce3c03;
 }
+
+.bg-modal{
+    background-color: #ff4700;
+}
+
+.texto{
+    color: #000;
+}
